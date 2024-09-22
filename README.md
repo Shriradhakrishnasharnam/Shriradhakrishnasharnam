@@ -18,7 +18,7 @@
 - 🪷 on AI and spirituality with various audiences around the world.
 - <h1>
    🪷 Connect, Support & Follow
-  <img src="https://giphy.com/stickers/TRANS-EU-lodz-hyperlog-trans-info-h1QmJxwoCr19BtTkGt" width="30px"/>
+  <img src="https://linktr.ee/Shriradhakrishnasharnam" width="30px"/>
 </h1>  
 -   <a href="https://www.buymeacoffee.com/Shriradhakrishn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> <div id="badges">
   <a href="https://LinkedIn.com/in/Shriradhakrishnasharnam">
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/@Shriradhakrsna">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/twitter/follow/Shriradhakrsna" alt="Twitter Badge"/>
   </a>
 </div>
 
