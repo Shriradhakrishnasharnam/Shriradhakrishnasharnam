@@ -32,6 +32,7 @@
   <a href="https://twitter.com/@Shriradhakrsna">
     <img src="https://img.shields.io/twitter/follow/Shriradhakrsna" alt="Twitter Badge"/>
   </a>
+  <img width="1600" height="1767" alt="Picsart_26-05-06_04-03-20-853" src="https://github.com/user-attachments/assets/9c2b7d36-37bd-4ac3-84e1-7e936ea07b1d" />
 </div>
 
 <!---
