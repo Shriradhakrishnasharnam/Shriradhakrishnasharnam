@@ -1,7 +1,7 @@
 ## Jai Shri Radha Krishna! 
 
 <div align="center" style="width: 300px; height: 300px; overflow: hidden; border-radius: 50%;">
-  <img src="https://github.com/user-attachments/assets/18650f4d-958e-4857-8068-2aebeec9d736" alt="B R Shriradhakrishnasharnam" style="width: 100%; height: auto; object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/6e2bf837-d63e-4f52-ad30-30cfacfae4ca" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Century&size=26&pause=1000&width=435&lines=Founder+%26+CEO+of+;Shriradhakrishnasharnam+Informatics.;Son+of+The+Supreme+Godhead+lord+;+Shriradhakrishnaji.+;My+Shriradhakrishna+is+my+everything.+)](https://git.io/typing-svg)
@@ -32,7 +32,6 @@
   <a href="https://twitter.com/@Shriradhakrsna">
     <img src="https://img.shields.io/twitter/follow/Shriradhakrsna" alt="Twitter Badge"/>
   </a>
-  <img width="1600" height="1767" alt="Picsart_26-05-06_04-03-20-853" src="https://github.com/user-attachments/assets/9c2b7d36-37bd-4ac3-84e1-7e936ea07b1d" />
 </div>
 
 <!---
