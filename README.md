@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/2d9d2d27-3d69-47f7-90a6-dd9d70eff192"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Century&size=26&pause=1000&width=435&lines=Founder+%26+CEO+of+;Shriradhakrishnasharnam+Informatics.;Son+of+The+Supreme+Godhead+lord+;+Shriradhakrishnaji.+;My+Shriradhakrishna+is+my+everything.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Century&size=26&pause=1000&width=435&lines=Founder+%26+CEO+of+;Shriradhakrishnasharnam+Informatics.;Son+of+The+Supreme+Consciousness+;+Shriradhakrishnaji.+;My+Shriradhakrishna+is+my+everything.+)](https://git.io/typing-svg)
 - 🪷 Jai Shri Radha Krishna!, I’m @Shriradhakrishnasharnam
 - 🪷 I’m interested in Spirituality & AI
 - 🪷 I’m currently learning Shrimad Bhagavad Gita, Shrimad Bhagwatam Mahapuran, Astrophysics & Artifical Intelligence 
